@@ -1,0 +1,23 @@
+.ami {
+    border: 10PX solid goldenrod;
+    background-color: midnightblue;
+    color: white;
+    padding: 20PX;
+    border-radius: 20PX;
+    margin-bottom: 20PX;
+    width: 350PX;
+    box-shadow: 5PX 5PX 0px 5PX black;
+}
+
+.flower {
+    margin: auto;
+    width: 300PX;
+    height: 300PX;
+}
+
+.flower img {
+    border-radius: 30%;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
